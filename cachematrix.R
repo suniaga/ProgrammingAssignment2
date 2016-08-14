@@ -1,6 +1,6 @@
--## Instructions:
+## Instructions:
 ## Put comments here that give an overall description of what your
--## functions do
+## functions do
 +## cachematrix.R
 +##
 +## Create a cache marix object that can be used to
